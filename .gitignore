@@ -1,0 +1,7 @@
+build/
+*.user
+*.log
+nocn_*.txt
+dist/
+*.zip
+!release/*.zip
